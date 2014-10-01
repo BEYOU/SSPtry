@@ -10,4 +10,9 @@ MongoDB 2.4 database added.  Please make note of these credentials:
       Root Password: msHeDXPwrAN4
          Database Name: cs561002
 
-	 Connection URL: mongodb://$OPENSHIFT_MONGODB_DB_HOST:$OPENSHIFT_MONGODB_DB_PORT/
+Connection URL: mongodb://$OPENSHIFT_MONGODB_DB_HOST:$OPENSHIFT_MONGODB_DB_PORT/
+
+Please make note of these MongoDB credentials:
+  RockMongo User: admin
+    RockMongo Password: msHeDXPwrAN4
+    URL: https://cs561002-beyou.rhcloud.com/rockmongo/
